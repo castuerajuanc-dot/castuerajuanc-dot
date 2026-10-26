@@ -1,33 +1,40 @@
 ## Juan Cruz Castuera
 
-AI automation engineer. I build systems that read documents, make decisions, and write the result somewhere useful — mostly with n8n, the Anthropic API, and whatever the data actually lives in.
+Developer who makes launch videos. I build motion graphics for SaaS and app launches, animated in code from your real UI, so every frame stays sharp and every revision is a one-line change.
 
 Based in Córdoba, Argentina (UTC−3, full overlap with US business hours). Italian citizen, so EU work authorization comes with me.
 
 ---
 
-**What I'm building**
+**Recent launch videos**
 
-🚚 **[Freight Rate Confirmation Extractor](https://github.com/castuerajuanc-dot/freight-rate-confirmation-extractor)** — a production pipeline that turns a broker's rate confirmation PDF into a structured spreadsheet row in under 60 seconds, with no template per broker. n8n · Claude API · Google Sheets
+<p>
+  <img src="assets/rizzr-launch-video.jpg" width="49%" alt="Rizzr launch video" />
+  <img src="assets/tucki-launch-video.jpg" width="49%" alt="Tucki launch video" />
+</p>
 
-Most of what I find interesting about that project is the failure handling, not the extraction: what a system should do when the model returns something unparseable, and how you write a prompt that makes "I don't know" the correct answer instead of an invented one.
+🎬 **Rizzr** · 30s app launch video: chat hook, product walkthrough with the real UI, payoff and logo. 1080p / 60 fps, frame-synced sound design.
 
-**Previously**
+🌙 **Tucki** · 26s launch video for a screen-free bedtime story app: calm pacing, soft motion, gentle sound design.
 
-💬 **Rizzr** — an AI conversation-coaching app I designed, built and shipped solo. n8n, Supabase, Vercel, Whop, plus the brand and the content operation. I sunset it after testing showed the acquisition channel wouldn't reach a viable cost per user. I learned more from that decision than from the build.
+---
 
-🛒 **Shopify storefronts** — theme work, catalog structure, payment gateways, cross-border setup.
+**Why a developer?**
+
+Before video I designed, built and shipped products end to end:
+
+- 💬 **Rizzr**: an AI conversation-coaching app I built solo (n8n, Supabase, Vercel), brand and content included. I sunset it after testing showed acquisition costs wouldn't work.
+- 🚚 **[Freight Rate Confirmation Extractor](https://github.com/castuerajuanc-dot/freight-rate-confirmation-extractor)**: turns broker PDFs into spreadsheet rows (n8n · Claude API).
+- 🛒 **Shopify storefronts**: themes, catalogs, payments.
+
+That background is why my videos show the product the way a user actually feels it: I know what each screen is supposed to do.
 
 ---
 
 **Working with**
 
-`n8n` · `Anthropic Claude API` · `JavaScript` · `Supabase` · `PostgreSQL` · `Next.js` · `Vercel` · `REST / webhooks` · `Google Workspace APIs` · `Shopify`
+`Claude` · `HTML / CSS / JS animation` · `React` · `ffmpeg` · `Next.js` · `Vercel`
 
-**Currently learning:** evaluation harnesses for LLM extraction — measuring accuracy properly instead of eyeballing outputs.
-
----
-
-Open to remote roles and contract work in AI automation.
+Open to freelance launch-video and motion-design projects.
 
 [LinkedIn](https://www.linkedin.com/in/castuerajuan) · castuerajuanc@gmail.com
